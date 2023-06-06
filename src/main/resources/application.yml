@@ -1,0 +1,4 @@
+joker:
+    source:
+        url: https://jokes.salt.dev/api/jokes/random
+
